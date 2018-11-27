@@ -1,7 +1,30 @@
-DON'T NEED MASCOTS? TRY [STYLECHAN](https://github.com/nebukazar/StyleChan) :camel:
+DON'T NEED MASCOTS? TRY [STYLECHAN](https://github.com/paradox460/StyleChan) :camel:
 ==
+OneeChan4vichan
+====
+English
+=====
+Original OneeChan was only developed for 4chan, now we are trying to expand it to vichan.
 
-OneeChan
+OneeChan4vichan tries to get rid of 4chanX and make OneeChan being able to be used solo. Also, we will try to make it work without Greasemonkey, Tampermonkey.. and add compatiblily with jQuery.
+
+This is the final goal so if you are reading this line, it's still in development and may not work.
+
+##[Install OneeChan4vichan userscript](https://raw.githubusercontent.com/Wired-7/OneeChan4vichan/master/builds/OneeChan.user.js)
+##[JS Script](https://github.com/Wired-7/OneeChan4vichan/blob/master/src/script.js)
+
+Español
+=====
+El script de OneeChan fue originalmente desarrollado para 4chan, ahora vamos a expandirlo a vichan.
+
+OneeChan4vichan va a eliminar la necesidad de 4chanX para funcionar. También va a eliminar la necesidad de ser ejecutado con Greasemonkey, Tampermonkey.. y añadir la compatibilidad con jQuery.
+
+Este es el objetivo final, por lo que si estas leyendo esta linea, aun esta en desarrollo y podría no funcionar.
+
+##[Instala OneeChan4vichan userscript](https://raw.githubusercontent.com/Wired-7/OneeChan4vichan/master/builds/OneeChan.user.js)
+##[JS Script](https://github.com/Wired-7/OneeChan4vichan/blob/master/src/script.js)
+
+OneeChan (Master)
 ====
 
 OneeChan is a userscript that functions on top of 4chan X and allows you to customize the site with various functions, themes and mascots. Mascots are not obligatory and can be changed or disabled altogether.
@@ -9,7 +32,7 @@ OneeChan is a userscript that functions on top of 4chan X and allows you to cust
 Originally developed by [seaweedchan](https://github.com/seaweedchan), this fork adds compatibility with various 4chan X versions and more custom options.
 
 
-##[Click to Install](https://nebukazar.github.io/OneeChan/builds/OneeChan.user.js)
+##[Click to Install](https://raw.githubusercontent.com/Chiiruno/OneeChan/master/builds/OneeChan.user.js) (Chiiruno OneeChan, not this fork)
 
 
 #### Install instructions
@@ -41,18 +64,19 @@ ccd0's 4chan X is the recommended 4chan X version and the one OneeChan is primar
 
 - Check if it's not a 4chan X issue first, OneeChan mostly deals with stylesheets not site functionality
 
-- Something doesn't work let me know in the [Issues](https://github.com/Nebukazar/OneeChan/issues) page
+- Something doesn't work let me know in the ~~[Issues](https://github.com/Nebukazar/OneeChan/issues)~~ page. Actually use this one, is the only actively maintained [Issues](https://github.com/KevinParnell/OneeChan) .
 
-- Please refer to the [Wiki](https://github.com/Nebukazar/OneeChan/wiki) for instructions
+- Please refer to the ~~[Wiki](https://github.com/Nebukazar/OneeChan/wiki)~~ for instructions. Same as above [Wiki](https://github.com/KevinParnell/OneeChan/wiki) .
 
 
 #### Development & Contribution
 
-- [Changelog](https://github.com/Nebukazar/OneeChan/blob/master/CHANGELOG.md)
-- [Source Code](https://github.com/Nebukazar/OneeChan)
-- [Reporting Bugs and Contributing](https://github.com/Nebukazar/OneeChan/blob/master/CONTRIBUTING.md)
+27-11-2018 - Updated to maintained OneeChan
+- [Changelog](https://github.com/KevinParnell/OneeChan/blob/master/CHANGELOG.md)
+- [Source Code](https://github.com/KevinParnell/OneeChan)
+- [Reporting Bugs and Contributing](https://github.com/KevinParnell/OneeChan/blob/master/CONTRIBUTING.md)
 
 #### Screenshots
 
-[![/images/thumb00.jpg](/images/thumb00.jpg)](https://raw.githubusercontent.com/nebukazar/OneeChan/master/images/ex00.png) [![/images/thumb01.jpg](/images/thumb01.jpg)](https://raw.githubusercontent.com/nebukazar/OneeChan/master/images/ex01.png) [![/images/thumb02.jpg](/images/thumb02.jpg)](https://raw.githubusercontent.com/nebukazar/OneeChan/master/images/ex03.png)
+[![/images/thumb00.jpg](/images/thumb00.jpg)](https://raw.githubusercontent.com/Wired-7/OneeChan4vichan/master/images/ex00.png) [![/images/thumb01.jpg](/images/thumb01.jpg)](https://raw.githubusercontent.com/Wired-7/OneeChan4vichan/master/images/ex01.png) [![/images/thumb02.jpg](/images/thumb02.jpg)](https://raw.githubusercontent.com/Wired-7/OneeChan4vichan/master/images/ex02.png)
 
